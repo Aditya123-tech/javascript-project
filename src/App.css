@@ -1,0 +1,22 @@
+.card{
+    text-align: justify;
+    margin-top: 50px;
+    margin-left:20px ;
+    max-height: 550px;
+    overflow-y: auto;
+    margin-bottom: 50px;
+    border-radius: 25px;
+    background-color:rgb(45, 48, 241);
+  
+
+}
+h2{
+    text-align: center;
+}
+td{
+    padding-left: 30px;
+    text-align:justify ;
+}
+.hrr{
+    margin-left: 30px;
+}
